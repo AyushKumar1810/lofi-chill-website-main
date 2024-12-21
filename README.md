@@ -30,7 +30,7 @@ Installation Steps
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/lofi-music-website.git
+git clone https://github.com/AyushKumar1810/lofi-chill.git
 Navigate to the Project Directory
 bash
 Copy code
